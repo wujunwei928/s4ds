@@ -1,4 +1,4 @@
-#  Scala for data science examples
+#  Scala for data science examples aaaaafdafad
 
 This repository contains the code examples for [Scala for data science](http://pascalbugnion.net/book.html). The aim of the book is to teach people who know a bit of Scala about useful libraries and tools for writing data science applications.
 
